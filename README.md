@@ -25,3 +25,7 @@ Implementation:
 clearly define the goal like classification, regression, clustering. E.g.,predict house prices nased on feautures like size, location etc. Data collection is the Gather relevant and sufficient data and data can be preprocessing and modelselection.
 
 The output can be formatted in length wise and centimeter.Python is the most widely used language due to its ecosystem of powerful libraries .
+
+OUTPUT:
+
+<img width="1898" height="964" alt="Screenshot 2025-09-04 132344" src="https://github.com/user-attachments/assets/0085682a-8bcf-4ce7-8388-e09f99481bb8" />
